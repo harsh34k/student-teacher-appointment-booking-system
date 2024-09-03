@@ -67,7 +67,10 @@ The frontend should now be running on http://localhost:3000.
 
 
 # Demonstration of UI
-
+### Sign in page
+![image](https://github.com/user-attachments/assets/9203dba7-44f6-4f2e-ac27-f4327bfade02)
+### Sign out page
+![image](https://github.com/user-attachments/assets/6738af6a-7e6d-4bd1-9760-d0908cf8a729)
 ### Sign up page with role of teacher
 ![Screenshot (1464)](https://github.com/coder-zs-cse/Student-Teacher-Appointment-Booking-System/assets/75170293/b4c3d000-2c48-4615-b9d7-881d0d02263f)
 ### List of Teachers
